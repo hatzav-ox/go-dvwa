@@ -16,7 +16,7 @@ require (
 	github.com/smartystreets/assertions v1.1.0 // indirect
 	github.com/spf13/afero v1.2.2 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
-	github.com/spf13/viper v1.7.0 // indirect
+	github.com/spf13/viper v1.15.0 // indirect
 	github.com/sqreen/go-agent v1.0.5
 	github.com/stretchr/testify v1.6.1
 	google.golang.org/protobuf v1.24.0 // indirect
